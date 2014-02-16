@@ -81,10 +81,6 @@ PRODUCT_PACKAGES += \
     libOmxAmrEnc \
     libstagefrighthw
 
-# GooManager
-PRODUCT_PACKAGES += \
-    GooManager
-
 # Power
 PRODUCT_PACKAGES += \
     power.msm8660
