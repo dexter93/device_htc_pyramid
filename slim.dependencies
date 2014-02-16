@@ -1,0 +1,22 @@
+[
+   {
+     "repository": "dexter93/kernel_htc_pyramid",
+     "target_path": "kernel/htc/pyramid",
+     "branch": "cm-11.0-caf"
+   },
+   {
+     "repository": "dexter93/vendor_htc_pyramid",
+     "target_path": "vendor/htc/pyramid",
+     "branch": "kk4.4"
+   },
+   {
+     "repository": "SlimRoms/hardware_qcom_display-caf",
+     "target_path": "hardware/qcom/display-caf",
+     "branch": "kk4.4"
+   },
+   {
+     "repository":  "SlimRoms/hardware_qcom_media-caf",
+     "target_path": "hardware/qcom/media-caf",
+     "branch": "kk4.4"
+   }
+]
