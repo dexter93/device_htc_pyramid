@@ -1,5 +1,5 @@
 #
-# system.prop for villec2
+# system.prop for pyramid
 #
 
 ro.sf.lcd_density=240
@@ -27,10 +27,6 @@ ro.ril.set.mtu1472=1
 wifi.interface=wlan0
 wifi.supplicant_scan_interval=160
 #
-# GooManager
-ro.goo.developerid=sultanxda
-ro.goo.rom=SennyCM11pyramid
-ro.goo.board=pyramid
 #
 # Power Saving/Sleep
 #
@@ -39,7 +35,6 @@ pm.sleep_mode=1
 #
 # Misc
 #
-persist.sys.usb.config=mass_storage,adb
 ro.vold.umsdirtyratio=50
 #
 # Disable-kernel-error-report
