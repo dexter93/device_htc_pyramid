@@ -15,6 +15,8 @@
 -->
 
 <resources>
+    <!-- Button settings enabled or disabled -->
+    <bool name="config_device_has_button_settings" translatable="false">true</bool>
     <!-- Volume Rocker Wake Support -->
     <bool name="config_show_volumeRockerWake">true</bool>
 </resources>
