@@ -1,12 +1,12 @@
 [
    {
-     "repository": "dexter93/kernel_htc_pyramid",
+     "repository": "Team-SennyC2/senny_kernel-3.4",
      "target_path": "kernel/htc/pyramid",
      "branch": "cm-11.0-caf"
    },
    {
-     "repository": "dexter93/vendor_htc_pyramid",
-     "target_path": "vendor/htc/pyramid",
+     "repository": "Team-SennyC2/proprietary_vendor_htc",
+     "target_path": "vendor/htc",
      "branch": "kk4.4"
    },
    {
